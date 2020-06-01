@@ -5,7 +5,7 @@ In the first step of Information Gathering , It is important to scan ports for e
 
 
 
-#Prerequisite
+# Prerequisite
 You must have python3 installed in your device.
 
 You must have know the IP Address of your target.
