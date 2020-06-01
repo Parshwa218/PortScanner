@@ -1,15 +1,10 @@
-import socket 
+import socket
+import pyfiglet
 
+ascii_banner = pyfiglet.figlet_format("Port Scanner")
+print(ascii_banner)
 
-print("*********************************************************")
-print("*                                                       *")
-print("*                                                       *")
-print("*                                                       *")
-print("             Coded by Parshwa Bhavsar                    ")
-print("*                                                       *")
-print("*                                                       *")
-print("*                                                       *")
-print("*********************************************************")
+print("********* Coded By Parshwa Bhavsar********")
 
 
 s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
