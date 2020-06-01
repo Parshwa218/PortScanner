@@ -21,3 +21,8 @@ cd PortScanner
 ```
 python3 portscanner.py
 ```
+# Example
+```
+Enter the IP you want to scan: 192.268.32.78 
+Enter the Port you want to scan: 22
+port is open
